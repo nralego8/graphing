@@ -1,2 +1,2 @@
-# graphing, coming soon to DVD
+# Graphing Repository
 Euler graphing tool and more?!
