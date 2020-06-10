@@ -1,5 +1,6 @@
 # Graphing Repository
 Home of the euler graphing tool I created for Differential Equations
+- [Adapted Output Example](https://www.desmos.com/calculator/othsqehgth)
 
 # Usage:
 - Enter t-value to find (e.g. 1.8)
